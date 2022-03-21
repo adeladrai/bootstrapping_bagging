@@ -1,1 +1,1 @@
-# Projet 4A encadré : \nUtilisation des méthodes Bootstrap en Statistique
+# Projet 4A encadré : Utilisation des méthodes Bootstrap en Statistique
